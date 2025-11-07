@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Sanskruti Tehare
 
-<!--
-**sanskrutitehare2003/sanskrutitehare2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech in Data Science** – GH Raisoni College of Engineering & Management, Pune  
+💻 **Skills:** Python, SQL, Power BI, Tableau, Pandas, Matplotlib, Seaborn, Machine Learning  
+📊 I enjoy turning raw data into meaningful insights and building AI-powered applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Featured Projects
+- 📈 [Zomato Data Analysis](https://github.com/SanskrutiTehare/Zomato-Data-Analysis)
+- 🧠 [Loan Approval Prediction](https://github.com/SanskrutiTehare/Loan-Approval-Prediction)
+- 🧩 [Summarizer Extension 360](https://github.com/SanskrutiTehare/Summarizer-Extension-360)
+
+---
+
+📫 **Email:** sanskrutitehare@gmail.com  
+📍 **Location:** Pune, India  
+
+⭐ *Thanks for visiting my profile!*
